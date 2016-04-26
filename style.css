@@ -6,7 +6,6 @@
 body, html {
     background-color: aliceblue;
     font-family: Pro-Bold;
-    font-size: .em;
     text-align: center;
 }
 
@@ -71,6 +70,7 @@ body, html {
 
 #album article ul li{
     color: black;
+    font-size: 12px;
 }
 
 #album #box {
@@ -84,12 +84,12 @@ body, html {
 }
 
 #album #text {
-    font-size: 10px;
+    font-size: 5px;
     text-align: center;
 }
 
 #album #title {
-    font-size: 0,2em;
+    font-size: 5px;;
     height: 300px;
 }
 
